@@ -54,3 +54,6 @@ A shell script to safely change WordPress database table prefixes with backup fu
 - Always backup your database before running
 - Ensure proper database permissions
 - Run from WordPress root directory
+
+# License 📄
+This project is licensed under the GNU General Public License v2.0
