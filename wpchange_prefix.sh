@@ -41,7 +41,7 @@ if [[ $1 == "-h" ]] || [[ $1 == "--help" ]]; then
 fi
 
 V='1.1'
-URL=''
+URL='https://raw.githubusercontent.com/percioandrade/wpchangeprefix/refs/heads/main/wpchange_prefix.sh'
 
 # Skip version check
 if [[ " $* " == *" -n "* || " $* " == *" --noversion "* ]]; then
